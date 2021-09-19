@@ -4,8 +4,8 @@
 
 I am enthusiastic to draw an eraser
 
-![Eraser1](assets\IMG20210919210701.jpg)
-![Eraser2](assets\IMG20210919210715.jpg)
-![Eraser3](assets\IMG20210919210900.jpg)
-![Eraser4](assets\IMG20210919212407.jpg)
-![Eraser5](assets\IMG20210919212659.jpg)
+![Eraser1](assets/IMG20210919210701.jpg)
+![Eraser2](assets/IMG20210919210715.jpg)
+![Eraser3](assets/IMG20210919210900.jpg)
+![Eraser4](assets/IMG20210919212407.jpg)
+![Eraser5](assets/IMG20210919212659.jpg)
