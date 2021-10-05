@@ -6,7 +6,7 @@
   
 In this task, we are asked to look for objects with the provisions that have been given, namely object whose name starts with E, J, or O (in English). After that, we must take photos of the thing from four different perspectives: top right, top left, top rear, top front of an image of the object like what I had done below. I chose **Eraser** to be an object for this assignment.
 
-| Top Left | Top Left-Rear | Top Right-Front | Top-Rear | Top-Above |
+| Top Left | Top Left-Rear | Top Right-Front | Top-Rear | Above |
 | :---: | :---: | :---: | :---: | :---:|
 |![Eraser1](assets/IMG20210919210701.jpg) | ![Eraser2](assets/IMG20210919210715.jpg) | ![Eraser3](assets/IMG20210919210900.jpg) | ![Eraser4](assets/IMG20210919212407.jpg) |  ![Eraser5](assets/IMG20210919212659.jpg)
 
