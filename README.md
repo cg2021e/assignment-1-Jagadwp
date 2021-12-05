@@ -35,4 +35,4 @@ I published my WebGL-based Graphics application <a href = "https://cg2021e.githu
 9. Set the cube so that it can be moved upward with the W key-button and downward with the S key-button. 
 10. Set the camera to move leftward and rightward linearly (not orbitally) using the A and D key-buttons.
 
-I published my WebGL-based Graphics application <a href = "https://cg2021e.github.io/assignment-1-Jagadwp/assignment-3/index/html" target="_blank"> here </a>
+I published my WebGL-based Graphics application <a href = "https://cg2021e.github.io/assignment-1-Jagadwp/assignment-3/index.html" target="_blank"> here </a>

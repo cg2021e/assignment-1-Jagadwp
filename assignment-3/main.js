@@ -250,7 +250,7 @@ function render() {
        gl.uniformMatrix3fv(uNormalModel, false, normalModel);
        // Reset the frame buffer
        gl.enable(gl.DEPTH_TEST);
-       gl.clearColor(0.1, 0.1, 0.1, 1.0);
+       gl.clearColor(0.11, 0.05, 0.36, 1.0)
        gl.clear(gl.COLOR_BUFFER_BIT | gl.DEPTH_BUFFER_BIT);
        gl.drawElements(gl.TRIANGLES, indices.length, gl.UNSIGNED_SHORT, 0);
        requestAnimationFrame(render);
