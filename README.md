@@ -43,4 +43,4 @@ I published my WebGL-based Graphics application <a href = "https://cg2021e.githu
 
 # Hackathon
 
-I published my WebGL-based Graphics application <a href = "https://cg2021e.github.io/assignment-1-Jagadwp/"target="_blank"> here </a>
+I published my WebGL-based Graphics application <a href = "https://cg2021e.github.io/assignment-1-Jagadwp/" target="_blank"> here </a>
