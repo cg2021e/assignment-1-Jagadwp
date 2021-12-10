@@ -21,7 +21,7 @@ From the object or image that I had from the previous task, in this task we were
 7. The rendering result on the right side of the Canvas is animated vertically, bouncing back between the top and the bottom walls of the Canvas, with a speed of 0.0xxx units, where xxx is the last three digits of the NRP.  
 8. Do not forget to commit and push the changes.  
 
-I published my WebGL-based Graphics application <a href = "https://cg2021e.github.io/assignment-1-Jagadwp/" target="_blank"> here </a>
+I published my WebGL-based Graphics application <a href = "https://cg2021e.github.io/assignment-1-Jagadwp/assignment-2/index.html" target="_blank"> here </a>
 
 # Assignment 3  
 1. Create a 3D definition of the object being photographed in your very first assignment.
@@ -36,3 +36,8 @@ I published my WebGL-based Graphics application <a href = "https://cg2021e.githu
 10. Set the camera to move leftward and rightward linearly (not orbitally) using the A and D key-buttons.
 
 I published my WebGL-based Graphics application <a href = "https://cg2021e.github.io/assignment-1-Jagadwp/assignment-3/index.html" target="_blank"> here </a>
+
+
+# Hackathon
+
+I published my WebGL-based Graphics application <a href = "cg2021e.github.io/assignment-1-jagadwp" target="_blank"> here </a>
